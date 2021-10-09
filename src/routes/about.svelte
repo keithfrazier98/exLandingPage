@@ -79,7 +79,7 @@
 	button{
 		width: fit-content;
 		height: 40px;
-		background-image: url("../static/autumn.jpg");
+		background-image: url("/autumn.jpg");
 		align-self: center;
 		border: none;
 		border-radius: 5px;

@@ -24,7 +24,7 @@
 	div > div{
 		display: flex;
 		flex-direction: row;
-        background-image: url("../static/cosmos.png");
+        background-image: url("/cosmos.png");
 		border-radius: 20px;
 		justify-content: center;
 		height: fit-content;
