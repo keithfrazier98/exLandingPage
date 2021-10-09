@@ -44,7 +44,7 @@
 			lets talk about how awesome Svelte is. These transitions are amazing, implemented with like 4
 			lines of code. And can we talk about the size? Svelte compiles your code into vanilla
 			JavaScript, so there is no boilerplate framework bundled with your code. All this results in a
-			smaller application than any other with framework. AMAZING.
+			smaller application than with any other framework. AMAZING.
 		</p>
 		{/if}
 
