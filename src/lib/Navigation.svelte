@@ -9,15 +9,17 @@
     display: flex;
     list-style: none;
     align-self: center;
+    padding: 0;
   }
 
   li {
     display: inline;
     margin: 0 10px 0 0;
+    font-size: 1.5em;
   }
 
   a{
-    color: black;
+    color: rgb(255, 255, 255);
     text-decoration: none;
     font-family: "Gemunu Libre", sans-serif;
   }

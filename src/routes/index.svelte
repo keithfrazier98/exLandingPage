@@ -1,6 +1,6 @@
 <script context="module">
 	export const prerender = true;
-	import App from './app.svelte'
+	import App from './app.svelte';
 </script>
 
 <svelte:head>
@@ -8,6 +8,13 @@
 </svelte:head>
 
 <section>
-	<App/>
+	<App />
 </section>
 
+<style>
+	:global(body) {
+		padding: 0;
+		margin: 0;
+		background-color: black;
+	}
+</style>
