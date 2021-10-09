@@ -1,6 +1,6 @@
 <script>
   import Navigation from "./Navigation.svelte";
-  let src = "../static/cartoon.png";
+  let src = "./cartoon.png";
   let name = "John Doe";
   let jobTitle = "Graphic Designer Extraordinaire";
 </script>
@@ -18,7 +18,6 @@
 
 <style>
   header {
-    background-image: url('../static/banner.jpg');
     padding: 10px;
     display: flex;
     flex-direction: column;

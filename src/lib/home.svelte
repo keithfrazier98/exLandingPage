@@ -1,13 +1,13 @@
 <script>
-	let autumn = '../static/autumn.jpg';
-	let cosmos = '../static/cosmos.png';
-	let dinner = '../static/dinner.png';
-	let fisherman = '../static/fisherman.jpg';
-	let hand = '../static/hand.jpg';
-	let heart = '../static/heart.jpg';
-	let plants = '../static/plants.jpg';
-	let trees = '../static/trees.jpg';
-	let wreath = '../static/wreath.jpg';
+	let autumn = '/autumn.jpg';
+	let cosmos = '/cosmos.png';
+	let dinner = '/dinner.png';
+	let fisherman = '/fisherman.jpg';
+	let hand = '/hand.jpg';
+	let heart = '/heart.jpg';
+	let plants = '/plants.jpg';
+	let trees = '/trees.jpg';
+	let wreath = '/wreath.jpg';
 	import { fade } from 'svelte/transition';
 
 </script>
